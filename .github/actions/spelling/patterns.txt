@@ -1,0 +1,8 @@
+# YouTube
+https?://(?:(?:www\.|)youtube\.com|youtu.be)/(?:channel/|embed/|)[-a-zA-Z0-9?&=_]*
+
+[Vv]\d+
+k3d
+
+# curl arguments
+\b(?:)curl(?:\s+-[a-zA-Z]+)+
