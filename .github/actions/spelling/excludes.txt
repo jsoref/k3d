@@ -1,0 +1,15 @@
+^\.github/
+^CODE_OF_CONDUCT\.md$
+(?:^|/)vendor/
+ignore$
+\.all-contributorsrc$
+\.gitattributes$
+\.ico$
+\.lock$
+\.mailmap$
+\.mod$
+\.png$
+\.svg$
+\.sum$
+\.cast$
+asciinema
